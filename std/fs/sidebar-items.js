@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Metadata",""],["ReadDir",""]],"fn":[["canonicalize",""],["metadata",""],["read_dir",""],["read_link",""],["symlink_metadata",""]],"struct":[["File",""],["OpenOptions",""]]});
